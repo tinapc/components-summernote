@@ -1,7 +1,7 @@
 {
-  "name": "Summernote",
+  "name": "copmponents-summernote",
   "description": "Super Simple WYSIWYG Editor on Bootstrap",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/Arelav/components-summernote.git"
