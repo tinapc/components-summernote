@@ -1,6 +1,6 @@
 {
   "name": "copmponents-summernote",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "main": ["./dist/summernote.js", "./dist/summernote.css"],
   "ignore": [
     "**/.*",
@@ -10,7 +10,6 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": ">= 1.9.0",
     "sass-bootstrap": ">= 3.0.1",
     "components-font-awesome": ">= 4.0.3"
   }
